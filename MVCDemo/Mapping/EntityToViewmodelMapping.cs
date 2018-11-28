@@ -6,6 +6,9 @@ using System.Web;
 
 namespace MVCDemo
 {
+    /// <summary>
+    /// test
+    /// </summary>
     public class EntityToViewmodelMapping:Profile
     {
         public EntityToViewmodelMapping() : base("EntityToViewmodelMappings")
