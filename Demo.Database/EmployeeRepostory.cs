@@ -12,7 +12,6 @@ namespace Demo.Database
     {
         public EmployeeRepostory(DemoContext demoContext) :base(demoContext)
         {
-
         }
 
 
