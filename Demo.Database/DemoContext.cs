@@ -13,7 +13,6 @@ namespace Demo.Database
         //{
         //    Database.SetInitializer<DemoContext>(null);
         //}
-
         public DemoContext() : base("Name=DemoContext")
         { }
 
